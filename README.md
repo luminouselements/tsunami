@@ -16,7 +16,7 @@ included so a previously broadcast threat can be explicitly cleared.
 ## Setup
 
 ```powershell
-cd C:\Users\franc\scripts\tsunami
+cd C:\scripts\tsunami
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
